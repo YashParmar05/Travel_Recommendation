@@ -1,4 +1,4 @@
-# Travel_Recommendation-
+# Travel_Recommendation
 A Travel Recommendation based on social media connections where user share their reviews on the cities and share reviwed cities with their connections. 
 Here I have explored social media analytics, In we can measure the simlarity between two person and find stonger connectionn who have shared more cities or visited more cities. 
 Also I have credted a algorithm which gives optimal path between a source city, shared city and destination { source -> shared city(s) -> destination }.
